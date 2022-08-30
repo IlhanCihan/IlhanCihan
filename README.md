@@ -16,7 +16,7 @@
 
 <img align="left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhanCihan&layout=compact" />
 <br/>
-![](https://komarev.com/ghpvc/?username=IlhanCihan)
+![](https://komarev.com/ghpvc/?username=your-github-ilhancihan&label=PROFILE+VIEWS)
 
 
 
