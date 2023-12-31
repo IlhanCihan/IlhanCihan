@@ -14,5 +14,5 @@
 <br><br>
     
 [![](https://img.shields.io/badge/linkedin-a7a459)](https://www.linkedin.com/in/cihanilhan/)
-[![](https://img.shields.io/badge/guest.book-161b22)]()
+[![](https://img.shields.io/badge/guest.book-161b22)](https://github.com/IlhanCihan/IlhanCihan/issues)
 </div>
