@@ -7,7 +7,7 @@
    🛠️ python • php • javascript     
    📱 swift • java                  
    💾 mysql • postgresql • sqlite3  
-   🕸️ aws • linux • dokcer • postman
+   🕸️ aws • linux • docker • postman
 </pre>
 <br>
 <img src="https://github.com/IlhanCihan/IlhanCihan/blob/main/assets/crow.gif" height="50" />
