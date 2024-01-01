@@ -9,9 +9,8 @@
    💾 mysql • postgresql • sqlite3  
    🕸️ aws • linux • docker • postman
 </pre>
+<img src="https://github.com/IlhanCihan/IlhanCihan/blob/main/assets/crow.gif" height="120" width="150" />
 <br>
-<img src="https://github.com/IlhanCihan/IlhanCihan/blob/main/assets/crow.gif" height="50" />
-<br><br>
     
 [![](https://img.shields.io/badge/linkedin-a7a459)](https://www.linkedin.com/in/cihanilhan/)
 [![](https://img.shields.io/badge/guest.book-161b22)](https://github.com/IlhanCihan/IlhanCihan/issues)
